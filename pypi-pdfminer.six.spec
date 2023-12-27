@@ -5,7 +5,7 @@
 #
 Name     : pypi-pdfminer.six
 Version  : 20221105
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/ac/6e/89c532d108e362cbaf76fdb972e7a5e85723c225f08e1646fb86878d4f7f/pdfminer.six-20221105.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ac/6e/89c532d108e362cbaf76fdb972e7a5e85723c225f08e1646fb86878d4f7f/pdfminer.six-20221105.tar.gz
 Summary  : PDF parser and analyzer
