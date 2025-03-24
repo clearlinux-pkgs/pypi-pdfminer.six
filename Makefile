@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pdfminer.six
-URL = https://files.pythonhosted.org/packages/e3/37/63cb918ffa21412dd5d54e32e190e69bfc340f3d6aa072ad740bec9386bb/pdfminer.six-20240706.tar.gz
+URL = https://files.pythonhosted.org/packages/ed/b7/6a631f02f3fa80b2b618156ca315792c27d2d45f62bc573e6da0e224dc63/pdfminer.six-20250324.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
